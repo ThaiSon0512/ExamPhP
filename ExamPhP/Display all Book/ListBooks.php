@@ -19,7 +19,7 @@
             die("<h3>không tìm thấy dữ liệu</h3>");
     ?> 
     <table width="800"  align="center" border="1" cellpadding="5">
-        <Tr bgcolor="pink" height="30">
+        <Tr bgcolor="red" height="30">
             <th>bookid</th>
             <th>authorid</th>
             <th>title</th>
